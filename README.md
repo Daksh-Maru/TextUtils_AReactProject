@@ -1,3 +1,6 @@
+# TextUtils_AReactProject
+Here you can enter your text and manipulate according to your will.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
